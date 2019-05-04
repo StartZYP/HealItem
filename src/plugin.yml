@@ -1,0 +1,5 @@
+name: Healitem
+main: com.qq44920040.minecraft.healitem.main
+version: 1.0
+author: q44920040
+commands:

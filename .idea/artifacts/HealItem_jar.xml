@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="HealItem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HealItem_jar</output-path>
+    <root id="root">
+      <element id="archive" name="HealItem.jar">
+        <element id="module-output" name="HealItem" />
+      </element>
+    </root>
+  </artifact>
+</component>
